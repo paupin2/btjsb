@@ -1,6 +1,6 @@
 SOURCE:=btjsb.c
 BINARY:=btjsb
-DESTINATION:=/usr/bin/btjsb
+DESTINATION:=/usr/local/bin/btjsb
 
 .PHONY: example
 
